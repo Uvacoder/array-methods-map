@@ -26,5 +26,12 @@ export const jobsAvailable = [
     title: "Data Scientist",
     location: "Los Angeles, CA",
     datePosted: "2 days ago"
+  },
+  {
+    id: 4,
+    company: "Facebook",
+    title: "Facebook hater",
+    location: "In Hell",
+    datePosted: "birth of christ"
   }
 ];
